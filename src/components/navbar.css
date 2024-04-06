@@ -1,0 +1,28 @@
+.navbar {
+    width: 100%;
+    height: 60px;
+    background-color: rgb(19, 19, 19);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+}
+
+.myshop{
+  color: white;
+}
+  
+  .links {
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .links a {
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    font-size: 25px;
+  }
+  
